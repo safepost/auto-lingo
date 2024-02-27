@@ -1,17 +1,10 @@
 {
-    "chromedriver_path": "C:\\Program Files (x86)\\chromedriver.exe",
-
+    "chromedriver_path": "D:\\Dev_perso\\chromedriver-win64\\chromedriver.exe",
     "antifarm_sleep": 0,
-
     "deviation": 0,
-
-    "maximize_window": true,
-
+    "maximize_window": false,
     "headless": false,
-
-    "incognito": true,
-
+    "incognito": false,
     "auto_login": false,
-
     "mute_audio": true
 }
